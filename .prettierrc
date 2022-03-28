@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "bracketsameLine": true,
+  "[javascript]": {
+    "singleAttributePerLine": true,
+    "arrowParens": "avoid"
+  }
+}
